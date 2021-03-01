@@ -5,7 +5,7 @@
 참여 기여도 : 80%
 (심플리시티 웹 사이트의 디자인을 보고 코딩하였습니다.)
 
-###사용한 JS
+### 사용한 JS
 
 ![simplicity_slide](https://user-images.githubusercontent.com/70355390/109542519-7eaaa700-7b08-11eb-9640-4528a817d31c.JPG)
 
